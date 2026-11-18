@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Vibe-Hip%20Hop%20&%20Code-orange?style=flat-square" alt="Vibe">
 </p>
 
-[🌐 **Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/) • [💬 **Contacto Directo (WhatsApp)**]
-(https://wa.me/qr/NPY6PENXSU56E1)
+[🌐 **Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/) • [💬 **Contacto Directo (WhatsApp)**](AQUÍ_PEGAS_TU_ENLACE_DE_WHATSAPP)
 
 </div>
 
@@ -21,28 +20,35 @@
 
 ¡Qué tal! Soy **Pafpanda**, mente creativa detrás de **Luny Network**. Fusiono la programación web frontend, la creación de bots automatizados y la composición de barras con identidad propia. 
 
-Aquí no hay bajones: el código se estructura limpio, los repositorios se mantienen al día y los proyectos crecen versión tras versión con el flow y la disciplina que exige la calle y la tecnología.
+Aquí se trabaja con disciplina y respeto: los espacios públicos muestran referencias o bases iniciales, mientras que el núcleo avanzado de los proyectos opera de manera privada y protegida.
 
 ---
 
-## 🛠️ Ecosistema de Proyectos
+## ⚠️ Nota Importante sobre el Código
 
-### 🌐 [Luny Network (Portal Web Oficial)](https://github.com/Pafpanda/P-gina-web)
-Plataforma web de la comunidad construida con arquitectura modular de alto nivel.
-* **Estructura Organizada (`assets/`):** Recursos multimedia (`media/`) y efectos estacionales dinámicos (`themes/` con Sakura 🌸, Verano ☀️ e Invernal ❄️).
-* **Audio Ambiental:** Reproductor minimalista de Lofi en loop.
+> **Aviso para visitantes y desarrolladores:** Debido a configuraciones y modificaciones previas, algunos fragmentos de código en los repositorios públicos pueden haberse visto alterados o requerir ajustes. Si vas a utilizar o implementar alguna de estas bases, ten en cuenta que te tocará revisar, depurar y reparar el código por tu cuenta. ¡Respeto ante todo y a darle mantenimiento!
+
+---
+
+## 🛠️ Proyectos & Ecosistema
+
+### 🌐 [Luny Network — Portal Web](https://github.com/Pafpanda/P-gina-web)
+* **Estado:** Estructura inicial finalizada / En constante evolución.
+* *Nota:* Código base de referencia; el núcleo avanzado se gestiona en privado.
+* **Portal en Vivo:** [luny-network.vercel.app](https://luny-network.vercel.app/)
 
 ### 🤖 [AlyaBot-MD-](https://github.com/Pafpanda/AlyaBot-MD-)
-Bot multipropósito enfocado en la interacción avanzada, respuestas automatizadas y entretenimiento digital.
+* **Estado:** En mantenimiento / En proceso de creación y reestructuración.
+* *Nota:* Repositorio con acceso privado/restringido; el núcleo operativo se mantiene protegido.
 
 ### 💬 [WhatsApp Bot Comunidad](https://github.com/Pafpanda/WhatsApp-bot-comunidad)
-Herramienta de automatización y soporte activo para la moderación diaria en los canales de la comunidad.
+* **Estado:** Funcional para soporte activo y moderación de canales de la comunidad.
 
 ---
 
 ## 🔌 Conecta con la Comunidad & Contacto
 
-¿Quieres tirar código, proponer ideas o unirte a la movida? Pásate por los canales oficiales o escríbeme directo:
+¿Quieres tirar código, proponer ideas o unirte a la movida con respeto y buena vibra? Pásate por los canales oficiales o escríbeme directo:
 
 * 🌐 **Sitio Web Principal:** [Luny Network Vercel](https://luny-network.vercel.app/)
 * 💬 **WhatsApp Directo / Comunidad:** [Escríbeme por WhatsApp](AQUÍ_PEGAS_TU_ENLACE_DE_WHATSAPP)
@@ -64,7 +70,7 @@ Herramienta de automatización y soporte activo para la moderación diaria en lo
 
 ---
 
-## 📊 Estadísticas de la Nave
+## 📊 Estadísticas Públicas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pafpanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="GitHub Stats">
@@ -73,5 +79,5 @@ Herramienta de automatización y soporte activo para la moderación diaria en lo
 ---
 
 <p align="center">
-  <i>"Letras profundas, código limpio y comunidad al frente. Manteniéndonos reales." 🎤✨</i>
+  <i>"Letras profundas, código limpio, respeto en la escena y comunidad al frente. Manteniéndonos reales." 🎤✨</i>
 </p>
