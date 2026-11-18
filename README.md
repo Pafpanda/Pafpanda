@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Vibe-Hip%20Hop%20&%20Code-orange?style=flat-square" alt="Vibe">
 </p>
 
-[🌐 **Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/) • [💬 **Contacto Directo (WhatsApp)**](AQUÍ_PEGAS_TU_ENLACE_DE_WHATSAPP)
+[🌐 **Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/) • [💬 **Contacto Directo (WhatsApp)**]
+(‎https://wa.me/qr/N7HAGRWGPR4LN1)
 
 </div>
 
