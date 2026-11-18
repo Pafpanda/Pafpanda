@@ -2,55 +2,55 @@
 
 # ★ 𝔉𝔞𝔫 𝔡𝔞𝔪𝔲 𝔫𝔬 𝔡𝔬̄𝔭𝔲𝔱𝔰 ★
 
-### 💻 Desarrollador Web Frontend & Creador de Bots y Automatizaciones
+### 🎤 Desarrollador Frontend • Creador de Bots • Beats & Cultura Urbana
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Activo%20y%20Construyendo-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Activo%20en%20la%20Escena-success?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Comunidad-Luny__Network-blueviolet?style=flat-square" alt="Comunidad">
-  <img src="https://img.shields.io/badge/Especialidad-Web%20&%20Bots-informational?style=flat-square" alt="Especialidad">
+  <img src="https://img.shields.io/badge/Vibe-Hip%20Hop%20&%20Code-orange?style=flat-square" alt="Vibe">
 </p>
 
-[🌐 **Visitar Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/)
+[🌐 **Portal Web Oficial (Vercel)**](https://luny-network.vercel.app/) • [💬 **Contacto Directo (WhatsApp)**]
+(https://wa.me/qr/NPY6PENXSU56E1)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🎧 Sobre mí
 
-¡Hola! Soy **Pafpanda**, creador y desarrollador principal de **Luny Network**. A lo largo de mi trayectoria me he especializado en el diseño de interfaces web modernas y en la creación, configuración y mantenimiento de bots automatizados para la gestión de comunidades digitales. 
+¡Qué tal! Soy **Pafpanda**, mente creativa detrás de **Luny Network**. Fusiono la programación web frontend, la creación de bots automatizados y la composición de barras con identidad propia. 
 
-Mi filosofía se basa en la mejora continua, la estructuración limpia del código y la creación de experiencias interactivas funcionales y estéticas.
+Aquí no hay bajones: el código se estructura limpio, los repositorios se mantienen al día y los proyectos crecen versión tras versión con el flow y la disciplina que exige la calle y la tecnología.
 
 ---
 
 ## 🛠️ Ecosistema de Proyectos
 
-### 🌐 [Luny Network (Página Web Oficial)](https://github.com/Pafpanda/P-gina-web)
-Portal web dinámico de la comunidad diseñado bajo una arquitectura modular y de alto rendimiento.
-* **Estructura Avanzada (`assets/`):** Organización profesional que separa recursos multimedia (`media/`) y efectos estacionales dinámicos (`themes/`).
-* **Efectos Visuales Interactivos:** Animaciones fluidas mediante `canvas` con emojis adaptados por temporada (Sakura 🌸, Verano ☀️ e Invernal/Navideño ❄️).
-* **Audio Ambiental Integrado:** Reproductor minimalista de música Lofi en segundo plano.
-* **Stack:** HTML5, CSS3, JavaScript y despliegue continuo en Vercel.
+### 🌐 [Luny Network (Portal Web Oficial)](https://github.com/Pafpanda/P-gina-web)
+Plataforma web de la comunidad construida con arquitectura modular de alto nivel.
+* **Estructura Organizada (`assets/`):** Recursos multimedia (`media/`) y efectos estacionales dinámicos (`themes/` con Sakura 🌸, Verano ☀️ e Invernal ❄️).
+* **Audio Ambiental:** Reproductor minimalista de Lofi en loop.
 
 ### 🤖 [AlyaBot-MD-](https://github.com/Pafpanda/AlyaBot-MD-)
-Bot multipropósito desarrollado con tecnologías modernas, enfocado en la interacción avanzada, automatización de tareas y entretenimiento dentro de entornos digitales.
-* **Funcionalidades dinámicas:** Respuestas automatizadas, comandos interactivos y optimización de rendimiento.
+Bot multipropósito enfocado en la interacción avanzada, respuestas automatizadas y entretenimiento digital.
 
 ### 💬 [WhatsApp Bot Comunidad](https://github.com/Pafpanda/WhatsApp-bot-comunidad)
-Herramienta de automatización diseñada específicamente para la gestión, moderación y soporte activo dentro de los canales de comunicación de la comunidad.
-* **Gestión de chats:** Facilita la administración de grupos, flujos de interacción y control operativo diario.
+Herramienta de automatización y soporte activo para la moderación diaria en los canales de la comunidad.
 
 ---
 
-## 📈 Evolución y Versiones del Ecosistema
+## 🔌 Conecta con la Comunidad & Contacto
 
-* **Actualidad:** Modularización avanzada del portal web principal, optimización de la arquitectura de carpetas y mantenimiento activo de los bots de la comunidad.
-* **Evolución Tecnológica:** Transición hacia códigos más limpios, separación de recursos estáticos y automatización de despliegues.
+¿Quieres tirar código, proponer ideas o unirte a la movida? Pásate por los canales oficiales o escríbeme directo:
+
+* 🌐 **Sitio Web Principal:** [Luny Network Vercel](https://luny-network.vercel.app/)
+* 💬 **WhatsApp Directo / Comunidad:** [Escríbeme por WhatsApp](AQUÍ_PEGAS_TU_ENLACE_DE_WHATSAPP)
+* 🐙 **GitHub Principal:** [@Pafpanda](https://github.com/Pafpanda)
 
 ---
 
-## 🛠️ Stack Tecnológico y Herramientas
+## 🔥 Stack & Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -64,7 +64,7 @@ Herramienta de automatización diseñada específicamente para la gestión, mode
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de la Nave
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pafpanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="GitHub Stats">
@@ -73,5 +73,5 @@ Herramienta de automatización diseñada específicamente para la gestión, mode
 ---
 
 <p align="center">
-  <i>"Evolucionando cada línea de código, bot y proyecto para construir una mejor comunidad." ✨</i>
+  <i>"Letras profundas, código limpio y comunidad al frente. Manteniéndonos reales." 🎤✨</i>
 </p>
